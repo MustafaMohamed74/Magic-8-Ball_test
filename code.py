@@ -10,6 +10,6 @@ responses = [
     "Better not tell you now.",
     "Concentrate and ask again."
 ]
-
+print("Welcome to the Magic 8 Ball!")
 def get_random_response():
     return random.choice(responses)
