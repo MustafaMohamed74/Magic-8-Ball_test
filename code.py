@@ -13,6 +13,7 @@ responses = [
 print("Welcome to the Magic 8 Ball!")
 
 print("Hello from feature branch!")
+print("Hello 2 from feature branch!")
 
 def get_random_response():
     return random.choice(responses)
