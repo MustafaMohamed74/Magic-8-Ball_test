@@ -17,6 +17,7 @@ print("Hello from feature branch!")
 def get_random_response():
     return random.choice(responses)
 print("hello from user input branch")
+print("hello 2 from user input branch")
 def get_user_guess():
     while True:
         try:
